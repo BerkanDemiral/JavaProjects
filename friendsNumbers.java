@@ -27,9 +27,9 @@ public class Main {
         }
 
         if (total1 == number2 && total2 == number1) {
-            System.out.println("Your numbers are friend numbers");
+            System.out.println("Your numbers are friends numbers");
         } else {
-            System.out.println("Your numbers aren't friend numbers");
+            System.out.println("Your numbers aren't friends numbers");
         }
     }
 }
